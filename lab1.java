@@ -36,7 +36,7 @@ public class lab2 {
 		System.out.println("\n4. After dividing by 3: " + number);
 
 		// Task 5 write 4 different statements that all do the same thing
-		// namely 'add 1 to the number'
+		// namely 'add 1 to the number' 
 		number = number + 1;
 		number += 1;
 		number++;
